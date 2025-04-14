@@ -29,7 +29,7 @@ It includes client information such as income, employment status, education leve
 - `pandas`, `numpy`
 - `scikit-learn`
 - `matplotlib`, `seaborn`
-- `xgboost` / `lightgbm` / `catboost` (depending on final model)
+- `xgboost` 
 
 ## 🚀 How to Run
 
